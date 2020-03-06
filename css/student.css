@@ -1,0 +1,26 @@
+/*
+* @Author: Dell
+* @Date:   2020-03-06 12:50:03
+* @Last Modified by:   Dell
+* @Last Modified time: 2020-03-06 14:16:05
+*/
+
+#field{
+	width: 400px;	
+}
+#headline{
+	color: red;
+}
+.style1{
+	width: 382px;
+	height: 23px;
+}
+.style2{
+	color: red;
+}
+#btn{
+	width: 390px;
+	height: 30px;
+	background-color:#DBDBDB;
+	border: none;
+}
